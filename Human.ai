@@ -913,6 +913,8 @@ function InitHeros takes nothing returns nothing
     call RegisterHero('Hamg', 'AHbz', 'AHab', 'AHwe', 'AHmt', 'A008') //大法师
     call RegisterHero('Hmkg', 'AHtc', 'AHtb', 'AHbh', 'AHav', 'A005') //山丘
     call RegisterHero('Hblm', 'AHfs', 'AHbn', 'AHdr', 'AHpx', 'A009') //血法
+    call RegisterHero('Hjai', 'A019', 'A01B', 'A01C', 'A01E', 'A017') //寒冰魔法师
+    call RegisterHero('Hvwd', 'A013', 'A01M', 'ANdr', 'A01L', 'A01G') //游侠
     call SelectHeroes()
 endfunction
 

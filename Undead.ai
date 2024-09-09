@@ -906,6 +906,8 @@ function InitHeros takes nothing returns nothing
     call RegisterHero('Ulic', 'AUfn', 'AUfu', 'AUdr', 'AUdd', 'A00J') //巫妖
     call RegisterHero('Udre', 'AUav', 'AUsl', 'AUcs', 'AUin', 'A00L') //恐惧魔王
     call RegisterHero('Ucrl', 'AUim', 'AUts', 'AUcb', 'AUls', 'A00M') //小强
+    call RegisterHero('Nklj', 'A025', 'ANms', 'A01Z', 'A020', 'A026') //恶魔巫师
+    call RegisterHero('Nmag', 'ANrf', 'ANht', 'ANca', 'A023', 'A021') //大屁股
     call SelectHeroes()
 endfunction
 

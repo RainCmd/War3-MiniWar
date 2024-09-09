@@ -881,6 +881,8 @@ function InitHeros takes nothing returns nothing
     call RegisterHero('Emoo', 'AHfa', 'AEst', 'AEar', 'AEsf', 'A00O') //白虎
     call RegisterHero('Edem', 'AEmb', 'AEim', 'AEev', 'AEme', 'A00P') //恶魔猎手
     call RegisterHero('Ewar', 'AEbl', 'AEfk', 'AEsh', 'AEsv', 'A00Q') //守望者
+    call RegisterHero('Efur', 'A02D', 'A02J', 'A02N', 'A02E', 'A02L') //自然守护者
+    call RegisterHero('E000', 'A011', 'A02B', 'A02H', 'A02C', 'A014') //风之古树
     call SelectHeroes()
 endfunction
 

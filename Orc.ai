@@ -869,6 +869,8 @@ function InitHeros takes nothing returns nothing
     call RegisterHero('Obla', 'AOwk', 'AOcr', 'AOmi', 'AOww', 'A00B') //剑圣
     call RegisterHero('Otch', 'AOsh', 'AOae', 'AOws', 'AOre', 'A00F') //牛头人酋长
     call RegisterHero('Ofar', 'AOfs', 'AOsf', 'AOcl', 'AOeq', 'A00D') //先知
+    call RegisterHero('Othr', 'ANsi', 'Asta', 'A01P', 'A01Q', 'A01T') //干扰者
+    call RegisterHero('Ogld', 'A01W', 'A029', 'A01V', 'A028', 'A02A') //巫师
     call SelectHeroes()
 endfunction
 
